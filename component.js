@@ -1,7 +1,7 @@
 export default {
     data() {
         return {
-            greeting: 'Hello, World!'
+            greeting: 'Hello, World! From component'
         }
     },
     template: `<div>{{ greeting }}</div>`
